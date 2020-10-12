@@ -1,2 +1,3 @@
-# dardar
-DarDar is a tiktok clone built with react and firebase
+# DarDar
+
+# A TikTok clone made with React and Firebase
